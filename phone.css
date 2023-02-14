@@ -1,0 +1,17 @@
+/* body{
+    background-color: red;
+} */
+/* navigation */
+#navbar{
+    flex-direction: column;
+}
+/* home */
+#home{
+    height: 280px;
+}
+#home::before{
+    height: 280px;
+}
+#services{
+    flex-direction: column;
+}
